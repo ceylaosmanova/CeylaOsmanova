@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi , I'm Jeyla Osmanova</h1>
 <h3 align="center">An Electronics and ICT engineering student with a passion for innovation and a strong commitment to continuous growth and development</h3>
 
-- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **jeyla.osmanova2108@gmail.com**
 
